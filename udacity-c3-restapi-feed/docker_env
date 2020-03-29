@@ -1,0 +1,9 @@
+POSTGRESS_DB=udagram_sk_dev
+POSTGRESS_PASSWORD=skdevadmin
+POSTGRESS_USERNAME=dev_admin
+POSTGRESS_HOST=udagram-sk-dev.c8ojzpk83ia0.us-east-1.rds.amazonaws.com
+AWS_PROFILE=default
+AWS_REGION=us-east-1
+AWS_BUCKET=udagram-sk-dev
+AWS_MEDIA_BUCKET=udagram-sk-dev
+JWT_SECRET=hellowworld

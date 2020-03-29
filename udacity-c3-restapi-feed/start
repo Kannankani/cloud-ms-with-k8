@@ -1,0 +1,1 @@
+sudo docker run --publish 8080:8080 -v $HOME/.aws:/root/.aws --name feed --env-file docker_env udacity-restapi-feed
