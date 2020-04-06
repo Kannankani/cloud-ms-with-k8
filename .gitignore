@@ -1,2 +1,4 @@
 aws-secret.yaml
 env-secret.yaml
+env-configmap.yaml
+
