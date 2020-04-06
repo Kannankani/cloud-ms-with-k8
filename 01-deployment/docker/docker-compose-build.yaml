@@ -6,13 +6,13 @@ services:
     image: kannankani/reverseproxy 
   backend_user:
     build:
-      context: ../../udacity-c3-restapi-user
+      context: ../../04-restapi-user
     image: kannankani/udacity-restapi-user
   backend_feed:
     build:
-      context: ../../udacity-c3-restapi-feed  
+      context: ../../03-restapi-feed  
     image: kannankani/udacity-restapi-feed
   frontend:
     build:
-      context: ../../udacity-c3-frontend  
+      context: ../../02-frontend  
     image: kannankani/udacity-frontend
